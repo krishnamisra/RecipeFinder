@@ -4,6 +4,12 @@ import java.util.ArrayList;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
+/**
+ * Model object for Recipe
+ * 
+ * @author krishnamisra
+ *
+ */
 
 @JsonIgnoreProperties(ignoreUnknown = true)
 public class Recipe {
