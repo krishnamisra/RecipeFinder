@@ -14,6 +14,7 @@ for maven setup and installation instructions)
 
 
 To run the program from unix/linux console:
+
 1. Clone it to your local PC or download as zip from github.
 
 2. Go to the RecipeFinder directory.
