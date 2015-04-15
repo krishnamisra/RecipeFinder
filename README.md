@@ -3,6 +3,7 @@
 # Setup Instructions
 
 Software setup requirements:-
+
 1. Java 1.7(Please check the link http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html
 to download Java 1.7)
 
@@ -30,6 +31,7 @@ Note: Third argument is optional and needed only if you want to setup a differen
 If everything goes well, you should see output as below:-
 
 —Console Output Starts--
+
 $ ./run.sh fridge.csv recipes.json
 
 salad sandwich
