@@ -23,12 +23,18 @@ RecipeFinder.jar file. Please ignore other directory and files.
 
 4. Copy the input data folder from src/test/input_data to the target folder. This is required for testing the program.
 
-5. Once done, please execute the run.sh script(available on the RecipeFinder top level directory), as per the illustration below:-
+5. Once done, please execute the run.sh script(available on the RecipeFinder top level directory), as per the format below:-
 
 
-./run.sh <ingredients csv file name> <recipe json file name> <optional customized today’s date>
+./run.sh #ingredients csv file name# #recipe json file name# #optional customized today’s date#
 
-Note: Third argument is optional and needed only if you want to setup a different date as today’s date.
+Note: 
+1. Third argument is optional and needed only if you want to setup a different date as today’s date.
+
+2. Please don't include hash. It is shown here only display the separate the description. Please refer the below
+example command and output.
+
+
 
 If everything goes well, you should see output as below:-
 
