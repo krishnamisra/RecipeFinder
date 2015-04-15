@@ -30,6 +30,7 @@ RecipeFinder.jar file. Please ignore other directory and files.
 ./run.sh #ingredients csv file name# #recipe json file name# #optional customized today’s date#
 
 Note: 
+
 1. Third argument is optional and needed only if you want to setup a different date as today’s date.
 
 2. Please don't include hash. It is shown here only display the separate the description. Please refer the below
